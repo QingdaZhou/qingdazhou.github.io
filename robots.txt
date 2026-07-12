@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://qingdazhou.github.io/sitemap.xml
