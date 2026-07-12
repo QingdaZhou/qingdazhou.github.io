@@ -1,6 +1,6 @@
-baseURL: https://qingdazhou.github.io/
+baseURL: "https://qingdazhou.github.io/"
 locale: en-us
-title: 青与AI同行--AI Native Architect Blog
+title: "QingdaZhou Blog--AI Native Architect Blog"
 theme: PaperMod
 enableRobotsTXT: true
 
